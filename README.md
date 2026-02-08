@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevSecOps-Zero-to-Hero
 
 ## Day 1: The Mindset Shift & Threat Modeling
@@ -115,3 +116,6 @@
 ### Career Guidance:
 - **Certifications**: CASE, CND, DevSecOps Foundation
 - **Resume Tips** and guidance for the future of the role
+=======
+# DevSecops
+>>>>>>> 5fde0dc27ac46cdc956a863c1446edc1f464a65d
