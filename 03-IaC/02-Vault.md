@@ -96,11 +96,11 @@ EOF
 vault write auth/jwt/role/gh-actions-role - <<EOF
 {
   "role_type": "jwt",
-  "bound_audiences": ["https://github.com/iam-veeramalla"],
+  "bound_audiences": ["https://github.com/subbu20n"],
   "user_claim": "sub",
   "bound_claims_type": "glob",
   "bound_claims": {
-    "sub": "repo:iam-veeramalla/DevSecOps-Zero-to-Hero:*"
+    "sub": "repo:subbu20n/DevSecOps:*"
   },
   "token_policies": ["terraform-policy"],
   "token_ttl": "1h"
@@ -139,7 +139,7 @@ permissions:
   id-token: write
   contents: read
 
-jobs:
+jobs: 
   deploy:
     runs-on: ubuntu-latest
     defaults:
