@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# DevSecOps-Zero-to-Hero
+# DevSecOps
 
 ## Day 1: The Mindset Shift & Threat Modeling
 
