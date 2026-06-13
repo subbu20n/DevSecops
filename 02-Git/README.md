@@ -8,7 +8,7 @@
 4. Gitleaks -> Repository & History Scanning  
 5. Gitleaks in GitHub Actions  
 6. Branch Protection Rules  
-7. RBAC  
+7. RBAC    
 8. Mandatory Reviews  
 9. CODEOWNERS  
 10. Dependabot  
